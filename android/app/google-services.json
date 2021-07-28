@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22481138818",
+    "firebase_url": "https://wakeupreactnativeapp.firebaseio.com",
+    "project_id": "wakeupreactnativeapp",
+    "storage_bucket": "wakeupreactnativeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22481138818:android:8eb2cc1b9a49e84ad3f09b",
+        "android_client_info": {
+          "package_name": "com.ucsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22481138818-u7tbm2is24rft5b79s22ueo5e5s0ulaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqi6oO85J8mVtMgOgJy2x63uWo491_Nyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22481138818-u7tbm2is24rft5b79s22ueo5e5s0ulaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
